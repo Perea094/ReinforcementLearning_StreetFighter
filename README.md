@@ -1,4 +1,3 @@
-Pelon
 # Reinforcement Learning – Street Fighter
 
 <details>
